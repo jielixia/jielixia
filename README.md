@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning other computer language to expand my skills.
 - 👯 Looking to collaborate with others and contribute to Open Source Projects.
-- 📚 Enrolled at Sorbonne University, studying mechatronics engineering (specialize in medical systems)
+- 📚 Enrolled at Sorbonne University, studying mechatronics engineering (specialized in medical systems)
 - 💞️ My hobbies include climbing, photography and wooden model (be an artisan was my 2nd choice)
 
 ---
