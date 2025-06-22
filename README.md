@@ -1,11 +1,11 @@
 ### Hello~ my name is Jieli XIA 👋
 
-## A Last year Student at Sorbonne Université Sciences (Paris VI)
+## A Mechatronic Systems Engineer, graduate from Sorbonne Université Sciences (Paris VI)
 
 - 🌱 I’m currently learning other computer language to expand my skills.
 - 👯 Looking to collaborate with others and contribute to Open Source Projects.
-- 📚 Enrolled at Sorbonne University, studying mechatronics engineering (specialized in medical systems)
-- 💞️ My hobbies include climbing, photography and wooden model (be an artisan was my 2nd choice)
+- 📚 Graduated from a double degree at Sorbonne Université Sciences (Paris VI), in mechatronics engineering and industrial automation (specialized in medical systems)
+- 💞️ My hobbies include climbing, photography, travel and wooden model.
 
 ---
 
